@@ -23,5 +23,4 @@ Testing against rubies
 ---
 
 If you set an environment variable RUBY to a version number like '2.2.2', this script 
-will create appropriate .ruby-version files in your generated xing project.  If you
-also pass the flah
+will create appropriate .ruby-version files in your generated xing project. 
