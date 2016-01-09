@@ -1,0 +1,21 @@
+PATH
+  remote: ../framework
+  specs:
+    xing-framework (0.0.1)
+      caliph (~> 0.3)
+      trollop (~> 2.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    caliph (0.3.1)
+    trollop (2.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  xing-framework!
+
+BUNDLED WITH
+   1.10.6
